@@ -1,7 +1,6 @@
-
 - Mobile First
 - Home
-	- Cadastre-se/Entrar/Procurando um profissional? Digite a cidade e mostraremos os profissionais associados. 
+	- Cadastre-se/Entrar/Procurando um profissional? Digite a cidade e mostraremos os profissionais associados
 - Quem somos
 	- Texto/imagem
 - Contato
@@ -10,6 +9,7 @@
 		- Banco de dados
 		- Envio de e-mail
 	- Chat On Line
+		- Básico para envio de mensagens, com login e senha para usuários e profissionais
 		- Funcionalidades
 		- On/Off-line
 - Faq
@@ -29,11 +29,13 @@
 		- Visualização por todos das perguntas
 		- Filtros
 		- Todos os profissionais visualizam respostas que ele cadastrou, mas se foi de outro profissional, ele não consegue ver a(S) resposta(S), mas consegue visualizar quantos já responderam
-		- quantos profissionais visualizaram a(s) pergunta(s) e quantos já responderam e quantos viram o telefone do(s) interessado(s): essas informações deverão ser apresentadas quando o profissional clicar na pergunta, junto com os 6 campos que foram preenchidos, pelo interessado.
+		- Quantos profissionais visualizaram a(s) pergunta(s) e quantos já responderam e quantos viram o telefone do(s) interessado(s): essas informações deverão ser apresentadas quando o profissional clicar na pergunta, junto com os 6 campos que foram preenchidos, pelo interessado.
 		- Cada usuário visualiza suas perguntas e suas respostas
 	- Perfis de Login
 		- Administrador
 			- Relatórios
+				- Geral com todas as perguntas e respostas
+				- Por Profissional				- 
 			- Usuários
 			- Contatos
 				- Responde e registra por aqui
@@ -42,13 +44,13 @@
 			- Efetua pergunta
 			- Formulário
 				- No máximo 6 campos
-				- Servirão de filtros para os profisisonais
+				- Servirão de filtros para os profissionais
 		- Profissional
 			- Cadastro pago via PAgSeguro com aceite de contrato/regulamento
 			- Responde mais de uma vez a mesma pergunta
 			- Premium
 				- Visualiza e responde todas as perguntas imediatamente, inclusive os dados cadastrais dos usuáriios
 			- Básico
-				- Visualiza e responde todas as perguntas após 8 horas comtando do momento da inclusão e os dados cadastrais dos usuáriios
+				- Visualiza e responde todas as perguntas após 8 horas contando do momento da inclusão e os dados cadastrais dos usuáriios
 			- Grátis
-				- Visualiza e responde todas as perguntas após 8 horas comtando do momento da inclusão e os dados cadastrais dos usuáriios
+				- Visualiza e responde todas as perguntas após 24 horas contando do momento da inclusão e os dados cadastrais dos usuáriios
